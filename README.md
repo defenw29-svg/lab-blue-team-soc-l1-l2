@@ -1,5 +1,6 @@
 # Equipo Azul - Laboratorio SOC L1/L2
 > Uso ético y con permiso. Solo entorno autorizado.
+> <img width="1920" height="1280" alt="818945419_1402019722987547_6346139476575699635_n" src="https://github.com/user-attachments/assets/bd3f4b73-47d8-4724-a3ce-18455f389473" />
 
 ## FASE 1: BUSQUEDA
 ```bash
